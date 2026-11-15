@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+missions/
+*.waypoints
+/run.png
+/compare.png
